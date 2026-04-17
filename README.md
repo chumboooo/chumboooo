@@ -20,4 +20,4 @@ Software engineering, AI/ML, cloud development, and building practical tools tha
 
 ## Connect
 - [LinkedIn](www.linkedin.com/in/sebastian-davalos)
-- [Resume]()
+- [Resume](https://raw.githubusercontent.com/chumboooo/chumboooo/main/DavalosSebastian_Resume.pdf)
