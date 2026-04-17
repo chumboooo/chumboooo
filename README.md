@@ -19,5 +19,5 @@ Python, TypeScript, Next.js, Supabase, AWS, SQL, C++, Java, Scikit-learn
 Software engineering, AI/ML, cloud development, and building practical tools that solve real problems.
 
 ## Connect
-- [LinkedIn](www.linkedin.com/in/sebastian-davalos)
+- [LinkedIn](https://www.linkedin.com/in/sebastian-davalos/)
 - [Resume](https://raw.githubusercontent.com/chumboooo/chumboooo/main/DavalosSebastian_Resume.pdf)
