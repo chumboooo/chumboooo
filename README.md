@@ -9,7 +9,7 @@ Computer Engineering student at Florida State University, building full-stack, A
 - **[Health Insurance Risk Classifier](https://github.com/Drexana/15A---Health-Insurance-Claims)**  
   Machine learning project built during AI4ALL Ignite that analyzed health insurance claims data using Random Forest, K-Means, and Isolation Forest to classify risk patterns and flag anomalies.
 
-- **[AWS Image Management Project](https://github.com/FSU-CloudClub/CloudClub-Spring26-ImageManagementWebApp)**  
+- **[SmartGallery](https://github.com/FSU-CloudClub/CloudClub-Spring26-ImageManagementWebApp)**  
   Contributed to a cloud-based image workflow using AWS services, including image upload, image analysis, and automation features.
 
 ## Tech Stack
